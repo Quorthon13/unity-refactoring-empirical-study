@@ -1,0 +1,8 @@
+name,reason
+Elektronik,"Error: Command '['git', 'clone', 'https://github.com/dioram/Elektronik.git', '/content/temp_repo']' returned non-zero exit status 128."
+nutrixr,"Error: Command '['git', 'clone', 'https://github.com/joelkingsley/nutrixr.git', '/content/temp_repo']' returned non-zero exit status 128."
+Overkill,"Error: Command '['git', 'clone', 'https://github.com/CodyI20/Overkill.git', '/content/temp_repo']' returned non-zero exit status 128."
+space-invaders-vr,"Error: Command '['git', 'clone', 'https://github.com/dtomschitz/space-invaders-vr.git', '/content/temp_repo']' returned non-zero exit status 128."
+freiheit-diy,"Error: Command '['git', 'clone', 'https://github.com/ForzaMark/freiheit-diy.git', '/content/temp_repo']' returned non-zero exit status 128."
+vr_project_2019,"Error: Command '['git', 'clone', 'https://github.com/pablomz97/vr_project_2019.git', '/content/temp_repo']' returned non-zero exit status 128."
+ColoringPotVR,"Error: Command '['git', 'clone', 'https://github.com/ameliacode/ColoringPotVR.git', '/content/temp_repo']' returned non-zero exit status 128."
